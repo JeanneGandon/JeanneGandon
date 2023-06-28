@@ -24,7 +24,7 @@
 </p>
 
 <br>
-**𝗜'𝗺 𝗮𝗹𝘀𝗼 𝗼𝗻...**
+𝗜'𝗺 𝗮𝗹𝘀𝗼 𝗼𝗻...
 <a href="https://www.linkedin.com/in/jeanne-gandon-21580a1a7/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=black" alt="JeanneGandon" /></a>
 
 ## 𝗠𝘆 𝗙𝗮𝘃𝗼𝗿𝗶𝘁𝗲 𝗧𝗼𝗼𝗹𝘀
