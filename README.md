@@ -18,6 +18,7 @@
   <h3>Random</h3>
   🎥 I never remember my favorite movies so I keep them in a <a href="https://letterboxd.com/jeannegandon/">safe place</a> <br>
   ⛳️ I can probably beat you on the course <br>
+  🖌 I have not missed a Wordle or Crossword in months
   
   </p>
   
