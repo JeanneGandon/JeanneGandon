@@ -23,12 +23,7 @@
   
 </p>
 
-<h3 align="center">
-  import wordle
 
-  wordle.Wordle(random_daily = True, real_words = True).run()
-</h3>
-  
 <br>
 𝗜'𝗺 𝗮𝗹𝘀𝗼 𝗼𝗻...
 <a href="https://www.linkedin.com/in/jeanne-gandon-21580a1a7/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=black" alt="JeanneGandon" /></a>
