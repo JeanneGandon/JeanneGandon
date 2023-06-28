@@ -56,6 +56,6 @@
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-5C2D91?logo=visual-studio-code&logoColor=white"></a>
 <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=white"></a>
 <a href="#"><img alt="Excel" src="https://img.shields.io/badge/microsoftexcel-217346?logo=slack&logoColor=white"></a>
-<a href="#"><img alt="Slack" src="https://img.shields.io/badge/slack-4A154B?logo=microsoftexcel&logoColor=white"></a>
+<a href="#"><img alt="Slack" src="https://img.shields.io/badge/slack-4A154B?logo=slack&logoColor=white"></a>
 
 
